@@ -8,7 +8,7 @@
     <link href="/2022/03/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2022/03/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<img src="/2022/03/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" class="" title="图片引用方法一">]]></content>
+    <content type="html"><![CDATA[<img src="/2022/03/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" class="" title="图片引用方法一"><h1 id="测试公式">测试公式</h1><p><span class="math display">\[\mathbf{i}^{(k)}=\text { Question_Representation}\left(\mathbf{i}^{(k-1)}, q, \mathcal{G}_{q}\right)\]</span></p>]]></content>
     
     
     
